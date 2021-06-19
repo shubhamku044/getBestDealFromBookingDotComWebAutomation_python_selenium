@@ -16,3 +16,7 @@ https://chromedriver.chromium.org/downloads
       Open booking/booking.py and change the path on line 11.
 #### 2.) Change currency, visiting place, check-in and check-out date(YYYY-MM-DD).
       Open main.py and change the line 6, 7, 8
+
+
+![main.py](./main.png)
+![booking.py](./booking.png)
